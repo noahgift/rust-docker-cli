@@ -1,3 +1,7 @@
+[![Clippy](https://github.com/noahgift/rust-docker-cli/actions/workflows/lint.yml/badge.svg)](https://github.com/noahgift/rust-docker-cli/actions/workflows/lint.yml)
+
+
+
 # rust command-line tool in Docker container
 An example of a tiny Rust command-line tool in a Docker container.
 About 83.8MB in size.
