@@ -1,5 +1,5 @@
 [![Clippy](https://github.com/noahgift/rust-docker-cli/actions/workflows/lint.yml/badge.svg)](https://github.com/noahgift/rust-docker-cli/actions/workflows/lint.yml)
-
+[![Tests](https://github.com/noahgift/rust-docker-cli/actions/workflows/tests.yml/badge.svg)](https://github.com/noahgift/rust-docker-cli/actions/workflows/tests.yml)
 
 
 # rust command-line tool in Docker container
